@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Todatete
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding(C++)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me X(Twitte) - (https://twitter.com/LindaBurns19392)
